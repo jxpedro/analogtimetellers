@@ -3,14 +3,14 @@ layout: post
 title: poljot
 date: 2017-10-01
 description: 2415
-image: /analogtimetellers/assets/images/poljot-2415.png
+image: /assets/images/poljot-2415.png
 author: jxpedro
 tags: 
   - poljot
 ---
 <p >poljot 2415</p>
 
-![Placeholder](/analogtimetellers/assets/images/poljot-2415.png)
+![Placeholder](/assets/images/poljot-2415.png)
 
 <p></p>
 
