@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: jpsm@tutanota.com
-baseurl: ""
+baseurl: "/analogtimetellers"
 permalink: /:title/
 google_analytics: 
 
