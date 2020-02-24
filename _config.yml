@@ -10,13 +10,13 @@ description: >
   a gathering of collected watches
 url: http://jxpedro.github.io/
 
-default_img: /assets/images/icons_web_e.png
+default_img: /analogtimetellers/assets/images/icons_web_e.png
 
 # Author settings
 author:
   - name: jxpedro
     bio: a tad asymmetrical Pedro
-    url: http://jxpedro.github.io
+    url: http://jxpedro.github.io//analogtimetellers
 
 # Pagination settings
 paginate: 53
