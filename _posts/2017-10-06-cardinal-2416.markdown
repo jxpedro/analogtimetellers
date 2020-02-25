@@ -1,0 +1,17 @@
+---
+layout: post
+title: cardinal
+date: 2017-10-06
+description: 2416
+image: /analogtimetellers/assets/images/cardinal-2416-s.png
+author: jxpedro
+tags: 
+  - poljot
+---
+<p >cardinal 2416</p>
+
+![Placeholder](/analogtimetellers/assets/images/cardinal-2416-w.png)
+
+<p></p>
+
+<hr/>
