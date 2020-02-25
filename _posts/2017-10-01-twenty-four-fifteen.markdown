@@ -8,7 +8,7 @@ author: jxpedro
 tags: 
   - poljot
 ---
-<p >poljot 2415</p>
+<p >2415</p>
 
 ![Placeholder](/analogtimetellers/assets/images/poljot-2415.png)
 
