@@ -1,6 +1,6 @@
 ---
 layout: post
-title: poljot
+title: twenty six sixteen
 date: 2017-10-03
 description: 2616
 image: /analogtimetellers/assets/images/poljot-2616b.png

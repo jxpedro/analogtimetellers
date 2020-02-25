@@ -1,9 +1,9 @@
 ---
 layout: post
-title: poljot
+title: twenty four fifteen
 date: 2017-10-01
 description: 2415
-image: /analogtimetellers/assets/images/poljot-2415.png
+image: /analogtimetellers/assets/images/poljot-2415b.png
 author: jxpedro
 tags: 
   - poljot
