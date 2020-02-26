@@ -1,7 +1,7 @@
 ---
 layout: post
 title: cardinal
-date: 2017-10-06
+date: 2018-10-04
 description: 2416
 image: /analogtimetellers/assets/images/cardinal-2416-s.png
 author: jxpedro

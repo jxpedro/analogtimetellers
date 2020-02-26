@@ -1,7 +1,7 @@
 ---
 layout: post
 title: poljot
-date: 2017-10-07
+date: 2017-10-09
 description: 2616
 image: /analogtimetellers/assets/images/poljot-2616-s.png
 author: jxpedro

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: sekonda
-date: 2017-10-05
+date: 2018-10-05
 description: 2416
 image: /analogtimetellers/assets/images/sekonda-2416-s.png
 author: jxpedro

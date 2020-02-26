@@ -1,7 +1,7 @@
 ---
 layout: post
 title: diamant
-date: 2017-10-09
+date: 2017-10-07
 description: 2616
 image: /analogtimetellers/assets/images/diamant-2616-s.png
 author: jxpedro
