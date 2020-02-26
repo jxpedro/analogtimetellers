@@ -1,7 +1,7 @@
 ---
 layout: post
 title: twenty four fifteen
-date: 2017-10-01
+date: 2017-10-03
 description: 2415
 image: /analogtimetellers/assets/images/poljot-2415b.png
 author: jxpedro
