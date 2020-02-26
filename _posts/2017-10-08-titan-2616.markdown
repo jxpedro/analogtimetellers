@@ -1,0 +1,17 @@
+---
+layout: post
+title: tintan
+date: 2017-10-08
+description: 2616
+image: /analogtimetellers/assets/images/titan-2616-s.png
+author: jxpedro
+tags: 
+  - poljot
+---
+<p >titan 2616</p>
+
+![Placeholder](/analogtimetellers/assets/images/titan-2616-w.png)
+
+<p></p>
+
+<hr/>
