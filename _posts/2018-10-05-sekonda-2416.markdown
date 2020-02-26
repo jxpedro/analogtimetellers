@@ -3,14 +3,14 @@ layout: post
 title: sekonda
 date: 2018-10-05
 description: 2416
-image: /analogtimetellers/assets/images/sekonda-2416-s.png
+image: /analogtimetellers/assets/images/sekonda-2416.jpg
 author: jxpedro
 tags: 
   - poljot
 ---
 <p >sekonda 2416</p>
 
-![Placeholder](/analogtimetellers/assets/images/sekonda-2416-w.png)
+![Placeholder](/analogtimetellers/assets/images/sekonda-2416.jpg)
 
 <p></p>
 

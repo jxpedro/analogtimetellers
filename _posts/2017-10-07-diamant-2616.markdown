@@ -3,14 +3,14 @@ layout: post
 title: diamant
 date: 2017-10-07
 description: 2616
-image: /analogtimetellers/assets/images/diamant-2616-s.png
+image: /analogtimetellers/assets/images/diamant-2616.jpg
 author: jxpedro
 tags: 
   - poljot
 ---
 <p >diamant 2616</p>
 
-![Placeholder](/analogtimetellers/assets/images/diamant-2616-w.png)
+![Placeholder](/analogtimetellers/assets/images/diamant-2616.jpg)
 
 <p></p>
 
