@@ -1,0 +1,17 @@
+---
+layout: post
+title: sekonda
+date: 2019-10-05
+description: 2415
+image: /analogtimetellers/assets/images/sekonda-2415.jpg
+author: jxpedro
+tags: 
+  - poljot
+---
+<p >sekonda 2415</p>
+
+![Placeholder](/analogtimetellers/assets/images/sekonda-2415.jpg)
+
+<p></p>
+
+<hr/>
