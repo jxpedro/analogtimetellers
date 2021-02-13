@@ -1,0 +1,17 @@
+---
+layout: post
+title: poljot
+date: 2019-11-07
+description: 2415
+image: /analogtimetellers/assets/images/poljot-2415_b.jpg
+author: jxpedro
+tags: 
+  - poljot
+---
+<p >poljot 2415</p>
+
+![Placeholder](/analogtimetellers/assets/images/poljot-2415_b.jpg)
+
+<p></p>
+
+<hr/>
